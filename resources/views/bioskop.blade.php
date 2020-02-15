@@ -92,7 +92,11 @@ text-align: center;
    height: 185px;
    left: 1000px;
    top: 450px;">
-
+   <img src="img/poster.png" alt="poster" style="position: absolute;
+   width: 320px;
+   height: 185px;
+   left: 1000px;
+   top: 680px;">
 
    <!-- OPTION -->
 
@@ -635,13 +639,13 @@ line-height: 36px;">R 13+</p>
 
   background-color: #005C99;
   color: #FFFFFF;
-  border-radius: 2px;
+  border-radius: 5px;
   width: 150px;
   text-align: center;
   
   font-family: Oswald;
   font-style: normal;
-  font-weight: bold;
+  font-weight: regular;
   font-size: 24px;
   line-height: 36px;">View More</p></a>
  
